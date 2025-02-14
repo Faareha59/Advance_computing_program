@@ -9,4 +9,3 @@ function print_data(item) {
 }
 
 let new_arr = Cars.map(print_data);
-console.log(new_arr);
